@@ -1,0 +1,30 @@
+:root {
+  --background-primary: rgba(30,32,34,0.8);
+  --background-secondary: rgba(30,32,34,0.6);
+  --brand-experiment: rgba(2,92,161);
+}
+.bg__12180 {
+  background: rgba(40,42,44,0.8);
+}
+.layer__2efaa {
+  background: transparent;
+}
+.layers__1c917 > .layers__1c917 .animating__27211 *,
+.layers__1c917 > .layer__2efaa .animating__27211 {
+  pointer-events: auto !important;
+  will-change: unset;
+}
+.layers__1c917 .baseLayer__8fda3 {
+  opacity: 1 !important;
+  transform: unset !important;
+  z-index: 1;
+}
+.layer__2efaa {
+  z-index: 2;
+}
+#app-mount .standardSidebarView__1129a {
+  background: rgba(40,42,44,0.8);
+}
+#app-mount .standardSidebarView__1129a .contentRegion__0bec1 {
+  background: transparent;
+}
